@@ -1,4 +1,6 @@
 fastapi
+requests
+multipart
 numpy
 uvicorn
 Pillow
